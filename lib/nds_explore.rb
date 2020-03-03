@@ -10,9 +10,9 @@ def pretty_print_nds(nds)
   a_o_a= [[1,2,3],[456],[7,8,9]]
 end
 
-pp name
-pp movies
-pp a_o_a
+  pp name
+  pp movies
+  pp a_o_a
 
 def print_first_directors_movie_titles
   movies=[{:name =>"Jaws", :movie =>"Close Encounters of the Third Kind"},
