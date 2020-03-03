@@ -9,6 +9,8 @@ def pretty_print_nds(nds)
 end
 
 pp name
+pp movies
+
 
 def print_first_directors_movie_titles
 end
